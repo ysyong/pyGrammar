@@ -1,0 +1,11 @@
+我们在定义函数的时候：
+  如果不是在class创建的类中，
+  在声明参数的时候就一定不能有self变量
+
+如何配置vim呢？
+  sudo vim /etc/vim/vimrc
+  然后在最后一行加入配置就可以了
+  比如加入：
+  set number //显示行号
+  set tabstop=4  //tab空格4个
+
